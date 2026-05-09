@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Secrets and private keys
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+.env
+
+# Backup archives generated during testing
+*.tar.gz
+*.zip
